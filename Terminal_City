@@ -1,0 +1,42 @@
+  265  cd downloads/clmystery-master/mystery
+  266  ls
+  267  grep "CLUE" crimescene
+  268  grep "Annabel" people
+  269  cd people
+  270  head -n 179 streets/Buckingham_Place | tail -n 1
+  271  cd interviews
+  272  cat interview-699607
+  273  grep -A 5 "L337" vehicules
+  274  grep -A 5 "L337" vehicles
+  275  ls
+  276  cd ..
+  277  grep -A 5 "L337" vehicles
+  278  ls
+  279  cd memberships
+  280  cat AAA Museum_of_Bash_History Delta_SkyMiles Terminal_City_Library | grep -c "Erika Owens"
+  281  cat AAA Museum_of_Bash_History Delta_SkyMiles Terminal_City_Library | grep -c "Joe Germuska"
+  282  cat AAA Museum_of_Bash_History Delta_SkyMiles Terminal_City_Library | grep -c "Jeremy Bowers"
+  283  cat AAA Museum_of_Bash_History Delta_SkyMiles Terminal_City_Library | grep -c "Jacqui Maher"
+  284  cd ..
+  285  grep "Jeremy Bowers" people
+  286  head -n 284 Dunstable_Road | tail -n 1
+  287  ls
+  288  cd people
+  289  cd treets
+  290  cd streets
+  291  head -n 284 Dunstable_Road | tail -n 1
+  292  cd ..
+  293  cd interviews
+  294  cat interview-9620713
+  295  cd ..
+  296  grep "Jacqui Maher" people
+  297  head -n 224 £Andover_Road | tail -n 1
+  298  head -n 224 Andover_Road | tail -n 1
+  299  cd streets
+  300  head -n 224 Andover_Road | tail -n 1
+  301  cd ..
+  302  cd interviews
+  303  cat interview-904020
+  304  cd ..
+  305  echo Jeremy Bowers
+  306  history > mon_historique.log
